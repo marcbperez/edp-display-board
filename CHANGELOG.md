@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+### Added
+
+  - Display board project and schematics.
+  - LP129QE1 display datasheet.
+
 ## 0.1.0 - 2016-11-03
 
 ### Added
